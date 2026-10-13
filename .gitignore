@@ -1,0 +1,11 @@
+gitignore
+  # IDE & Cache
+  .idea/
+  .vscode/
+  *.iml
+
+  # Flutter Build & Dependency
+  **/.dart_tool/
+  **/build/
+  **/.pub-cache/
+  **.flutter-plugins
